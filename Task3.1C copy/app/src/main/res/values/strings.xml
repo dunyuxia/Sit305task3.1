@@ -1,0 +1,10 @@
+<resources>
+	<string name="app_name">SIT305 QuiZ App</string>
+	<string name="enter_name">Enter your name:</string>
+	<string name="start">Start</string>
+	<string name="submit">Submit</string>
+	<string name="next">Next</string>
+	<string name="your_score">Your Score</string>
+	<string name="take_new_quiz">Take New QuiZ</string>
+	<string name="finish">Finish</string>
+</resources>
